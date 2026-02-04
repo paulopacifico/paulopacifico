@@ -13,7 +13,7 @@ Passionate about building **scalable**, **secure**, and **maintainable** enterpr
 
 - 🔭 Currently working on **e-commerce microservices** with Spring Boot
 - 🌱 Deepening my expertise in **Spring Cloud**, **Kubernetes**, and **distributed systems**
-- 💼 Open to opportunities in **Toronto, Montreal, Vancouver**, or **remote positions**
+- 💼 Open to opportunities in **Montreal** or **remote positions**
 - 🎯 Focused on **clean architecture**, **security best practices**, and **production-ready code**
 - 📚 Continuous learner - always exploring new technologies and design patterns
 
@@ -59,7 +59,7 @@ Passionate about building **scalable**, **secure**, and **maintainable** enterpr
 ### 📚 [Bookstore E-commerce API](https://github.com/paulopacifico/E-commerce_Book_Store)
 **Production-ready Spring Boot backend** for digital bookstore with complete e-commerce features.
 
-🔹 **Tech:** Java 21, Spring Boot 3.x, PostgreSQL, JWT, Docker  
+🔹 **Tech:** Java 21, Spring Boot, PostgreSQL, JWT, Docker  
 🔹 **Features:** User authentication, cart management, order processing, admin panel  
 🔹 **Highlights:** Clean architecture, comprehensive test coverage, Docker-ready, CI/CD pipeline
 
@@ -80,20 +80,6 @@ Currently working on:
 - 🔐 **OAuth2 Authorization Server** - Centralized authentication microservice
 - 💳 **Payment Gateway Integration** - Stripe/PayPal payment processing
 - 📊 **Inventory Management System** - Real-time stock tracking with Kafka
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulopacifico&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopacifico&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulopacifico&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
