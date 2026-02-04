@@ -63,7 +63,6 @@ Passionate about building **scalable**, **secure**, and **maintainable** enterpr
 🔹 **Features:** User authentication, cart management, order processing, admin panel  
 🔹 **Highlights:** Clean architecture, comprehensive test coverage, Docker-ready, CI/CD pipeline
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit-success?style=for-the-badge)](https://your-demo-link.com)
 [![GitHub Repo](https://img.shields.io/badge/📦_Repository-View_Code-blue?style=for-the-badge)](https://github.com/paulopacifico/E-commerce_Book_Store)
 
 **Key Achievements:**
