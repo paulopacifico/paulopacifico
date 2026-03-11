@@ -59,7 +59,7 @@ Passionate about building **scalable**, **secure**, and **maintainable** enterpr
 ### 📚 [Bookstore E-commerce API](https://github.com/paulopacifico/E-commerce_Book_Store)
 **Production-ready Spring Boot backend** for digital bookstore with complete e-commerce features.
 
-🔹 **Tech:** Java 25, Spring Boot, PostgreSQL, JWT, Docker  
+🔹 **Tech:** Java 21, Spring Boot, PostgreSQL, JWT, Docker  
 🔹 **Features:** User authentication, cart management, order processing, admin panel  
 🔹 **Highlights:** Clean architecture, comprehensive test coverage, Docker-ready, CI/CD pipeline
 
